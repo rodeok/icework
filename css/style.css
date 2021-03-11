@@ -1,0 +1,124 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  .choice3{
+    display: flex;
+  }
+  .link-one{
+    text-decoration: none;
+    font-weight: 1000;
+    color: rgb(252, 245, 245);
+    transition: 1s;
+  }
+  .link-two{
+    text-decoration: none;
+    font-weight: 1000;
+    color: rgb(255, 255, 255);
+    transition: 1s;
+  }
+  .link-the{
+    text-decoration: none;
+    font-weight: 1000;
+    color: rgb(255, 255, 255);
+    transition: 1s;
+  }
+  .auto{
+    text-decoration: none;
+    color: blanchedalmond;
+    animation: none;
+  }
+  .git{
+    color: blanchedalmond;
+    position: absolute;
+    left: 10%;
+    /* top: 10px; */
+  }
+  .link-for{
+    transition: 1s;
+    text-decoration: none;
+    font-weight: 1000;
+    color: rgb(255, 255, 255);
+  }
+  .link-fiv{
+    transition: 1s;
+    text-decoration: none;
+    font-weight: 1000;
+    color: rgb(255, 255, 255);
+  }
+  .link-six{
+    transition: 1s;
+    text-decoration: none;
+    font-weight: 1000;
+    color: rgb(255, 255, 255);
+  }
+  .link-sev{
+    transition: 1s;
+    text-decoration: none;
+    font-weight: 1000;
+    color: rgb(255, 255, 255);
+  }
+  .link-one:hover{
+
+     color: #000;
+     background: rgb(253, 251, 251);
+     
+  }
+
+.choice{
+    display: flex;
+    margin: 4px;
+}
+p{
+    margin: 4px;
+}
+.choice2{
+    display: flex;
+    margin: 4px;
+}
+  .just{
+    background: rgb(37, 36, 36);
+  }
+  .link-two:hover{
+    color: #000;
+     background: rgb(253, 251, 251);
+  }
+  .link-the:hover{
+    color: #000;
+     background: rgb(253, 251, 251);
+  }
+  .link-for:hover{
+    color: #000;
+     background: rgb(253, 251, 251);
+  } 
+  .link-fiv:hover{
+    color: #000;
+     background: rgb(253, 251, 251);
+  }
+  .link-six:hover{
+    color: #000;
+     background: rgb(253, 251, 251);
+  }
+  .link-sev:hover{
+    color: #000;
+     background: rgb(253, 251, 251);
+ }
+
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+
+    }
+    .line{
+      /* border: 2px solid rgb(36, 235, 86); */
+    }
+  }
+  @media screen and (max-width:1440px) {
+    .line{
+      /* border: 2px solid rgb(36, 235, 86); */
+    }
+  }
